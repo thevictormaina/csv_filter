@@ -1,0 +1,16 @@
+{
+  "name": "ig_lead_bio_filter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}

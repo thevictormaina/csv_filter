@@ -1,0 +1,4 @@
+Would you like to filter a file or a directory?
+1) Single CSV File
+2) Directory with CSV files
+>>

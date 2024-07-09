@@ -1,0 +1,12 @@
+CSV Filter Utility
+© Copyright 2024 Victor Maina Group
+
+Welcome to CSV Filter! To get started, make sure you have:
+  ✓ The path to a CSV file to be filtered.
+      e.g. C:/Users/username/Desktop/csv_files/
+  ✓ The path to CSV file containing filters for each column.
+      e.g. C:/Users/username/Desktop/filters.csv
+  ✓ The output path where the results will be saved.
+      e.g. C:/output.csv
+
+Let's begin! Press <Enter> to continue...
